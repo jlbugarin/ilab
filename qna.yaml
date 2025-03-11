@@ -1,0 +1,83 @@
+created_by: jlbugarin
+version: 3
+domain: futbol
+document_outline: sobre la carrera del jugador de futbol peruano claudio pizarro.
+seed_examples:
+  - context: >-
+      sobre los inicios de claudio pizarro en el futbol y sobre su carrera en el
+      extranjero.
+    questions_and_answers:
+      - question: ¿Quién es Claudio Pizarro?
+        answer: >-
+          Claudio Pizarro es un exfutbolista peruano reconocido como uno de los
+          mejores delanteros en la historia del fútbol peruano y de la
+          Bundesliga. Jugó en clubes como Alianza Lima, Werder Bremen, Bayern
+          Múnich y Chelsea.
+      - question: ¿En qué equipo debuto Claudio Pizarro?
+        answer: claudio pizarro debuto en el deportivo pesquero del Peru.
+      - question: ¿En qué equipos jugó Claudio Pizarro?
+        answer: >-
+          Claudio Pizarro jugó en Alianza Lima (Perú), Werder Bremen (Alemania),
+          Bayern Múnich (Alemania), Chelsea (Inglaterra) y Colonia (Alemania)."
+  - context: sobre los titulos que gano en el futbol aleman
+    questions_and_answers:
+      - question: ¿Cuántos títulos ganó Claudio Pizarro con el Bayern Múnich?
+        answer: >-
+          laudio Pizarro ganó numerosos títulos con el Bayern Múnich, incluyendo
+          6 campeonatos de la Bundesliga, 5 Copas de Alemania, 1 Liga de
+          Campeones de la UEFA y 1 Mundial de Clubes de la FIFA.
+      - question: ¿Por qué Claudio Pizarro es considerado una leyenda del Werder Bremen?
+        answer: >-
+          Claudio Pizarro es el máximo goleador histórico del Werder Bremen y un
+          ídolo del club, gracias a sus múltiples temporadas exitosas y a los
+          títulos obtenidos, como la Copa de Alemania 2008-09.
+      - question: ¿Cuántos goles marcó Claudio Pizarro en la Bundesliga de Alemania?
+        answer: >-
+          Claudio Pizarro marcó 197 goles en la Bundesliga, lo que lo convierte
+          en el extranjero con más goles en la historia de la liga hasta su
+          retiro.
+  - context: sobre sus apodos y su retiro del futbol
+    questions_and_answers:
+      - question: ¿Qué apodo tiene Claudio Pizarro?
+        answer: >-
+          Claudio Pizarro es conocido como 'El Bombardero de los Andes', debido
+          a su capacidad goleadora y su origen peruano.
+      - question: ¿Cuándo se retiró Claudio Pizarro?
+        answer: >-
+          Claudio Pizarro anunció su retiro del fútbol profesional en 2020, tras
+          finalizar su última temporada con el Werder Bremen.
+      - question: ¿Cuál es el legado de Claudio Pizarro en la selección peruana?
+        answer: >-
+          Aunque Claudio Pizarro tuvo una destacada carrera a nivel de clubes,
+          su desempeño con la selección peruana fue criticado por no haber
+          conseguido clasificar a un Mundial. A pesar de ello, es recordado por
+          su liderazgo y experiencia.
+  - context: sobre sus logros personales
+    questions_and_answers:
+      - question: ¿Qué otros logros personales tiene Claudio Pizarro?
+        answer: >-
+          Claudio Pizarro fue reconocido como el máximo goleador extranjero en
+          la historia de la Bundesliga durante su carrera. Además, fue premiado
+          en varias ocasiones como el mejor futbolista peruano.
+      - question: ¿Qué hace Claudio Pizarro tras su retiro?
+        answer: >-
+          Tras su retiro, Claudio Pizarro se ha mantenido vinculado al fútbol
+          como embajador del Bayern Múnich y en eventos relacionados con la
+          Bundesliga.
+      - question: ¿De que equipo de futbol peruano es hincha claudio pizarro?
+        answer: claudio pizarro es hincha del club de futbol peruano Alianza Lima.
+  - context: sobre su familia
+    questions_and_answers:
+      - question: ¿Como se llama la esposa de Claudio Pizarro?
+        answer: la esposa de Claudio Pizarro se llama Karla Salcedo
+      - question: ¿Cuantos hijos tiene Claudio Pizarro?
+        answer: tiene 3 hijos
+      - question: ¿De cuanto es la fortuna de Claudio Pizarro?
+        answer: >-
+          Claudio Pizarro cuenta con una fortuna aproximada de 200 millones de
+          dolares.
+document:
+  repo: https://github.com/jlbugarin/ilab
+  commit: b4fddb2
+  patterns:
+    - ClaudioPizarro.md
